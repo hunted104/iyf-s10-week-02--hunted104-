@@ -13,9 +13,10 @@ The main agender for the project was to  practice on the implication of CSS in t
 - CSS3
 
 ## Features
-- Feature 1
-- Feature 2
-- Feature 3
+- CSS variables for Font size
+- CSS variables for colours
+- Mobile-first structure and the breakpoints
+- Navbar layout
 
 ## How to Run
 1. Clone this repository
