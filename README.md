@@ -1,18 +1,16 @@
-# Week {Number}: {Project Title}
+# Week 2:CSS Mastery 
 
 ## Author
-- **Name:** Ian Mutugi
-- **GitHub:** [@MaisoriKitayama](https://github.com/MaisoriKitayama)
-- **Date:** Month Day, Year
+- **Name:** Ian mutugi
+- **GitHub:** [@hunted104](https://github.com/hunted104)
+- **Date:** February ,19, 2026
 
 ## Project Description
-Brief description of what you built and why.
+The main agender for the project was to  practice on the implication of CSS in the coding activity for better understanding.
 
 ## Technologies Used
 - HTML5
 - CSS3
-- JavaScript
-- (list all technologies)
 
 ## Features
 - Feature 1
@@ -26,13 +24,11 @@ Brief description of what you built and why.
    Run `npm install` then `npm start`
 
 ## Lessons Learned
-What did you learn while building this project?
-
+I learned to apply various CSS codes for a complete project activity and better appearance of the project.
 ## Challenges Faced
-What problems did you encounter and how did you solve them?
+I underwent the challange of applying various codes for the better designing and their different functionalities but faced it by seeking assistance from my peers
 
 ## Screenshots (optional)
-![Screenshot description](path/to/screenshot.png)
 
 ## Live Demo (if deployed)
 [View Live Demo](https://your-deployed-url.com)
