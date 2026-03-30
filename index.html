@@ -41,7 +41,7 @@
         }
         
         body {
-            font-family: Arial, sans-serif;
+            font-family: 'Roboto', sans-serif;
             line-height: 1.6;
             background: var(--color-background);
             color: var(--color-text);
@@ -158,6 +158,22 @@
         gap: 25px;
         }
         }
+        @media (max-width: 768px) {
+    nav ul {
+        display: none;
+        flex-direction: column;
+        background: var(--color-primary-dark);
+        position: absolute;
+        top: 70px;
+        right: 0;
+        width: 200px;
+        padding: 20px;
+    }
+
+    .menu-toggle {
+        display: block;
+    }
+}
         /* Tablet */
         @media (min-width: 768px) {
             .projects-grid {
@@ -192,6 +208,7 @@
         margin: auto;
         }
         }
+        
         /* Buttons */
         .button:hover {
             transform: translateY(-2px);
@@ -312,7 +329,7 @@
             color: var(--color-white);
             border-radius: 6px;
             font-weight: bold;
-            cursor: hand;
+            cursor: pointer;
         }
         
         button:hover {
@@ -326,6 +343,7 @@
             text-align: center;
             padding: 20px;
         }
+        
     </style>
 
 </head>
